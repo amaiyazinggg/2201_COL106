@@ -4,16 +4,16 @@ This repository contains the assignments for the undergraduate course on Data St
 - All the respective folders contain the assignment PDF and my solution (6/6 obtained on autograder for all the assignments)
 
 ### Assignment 1
-Uses the Stack data structure.
+Based on the **Stack** data structure.
 
 ### Assignment 2
-Uses the Heap data structure.
+Based on the **Heap** data structure.
 
 ### Assignment 3
 Based on search trees.
 
 ### Assignment 4
-Based on the Rabin Karp Algorithm and concepts of hashing.
+Based on the **Rabin Karp** Algorithm and concepts of **hashing**.
 
 ### Assignment 5
-Modified version of the Dijkstra Algorithms
+Modified version of the **Dijkstra** Algorithm
